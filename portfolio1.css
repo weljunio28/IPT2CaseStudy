@@ -1,0 +1,61 @@
+body{
+    background-color:#27374D;
+    justify-content:center;
+    display: flex;
+    align-items: center;
+    font-family: sans-serif;
+    font-variant: normal;
+    margin: 0px;
+}
+
+.top{
+    height: 110px;
+    background-color: #133E87;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.bot{
+    background-color: #CBDCEB;
+    padding: 10px;
+    text-align: center;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.picture{
+    width: 140px;
+    height: 140px;
+    margin-top: -90px;
+    border-radius: 80px;
+    border: solid;
+    border-color: #608BC1;
+}
+
+.profile-card{
+    text-align: center;
+    margin-left: 13px;
+    margin-top: 11px;
+    width: 450px;
+    height: 425px;
+    padding: 10px;
+    background-color:#608BC1;
+    border-radius: 10px;
+    border: 3px solid;
+}
+
+
+.name{
+    font-weight: bold;
+    font-size: 24px;
+
+   
+}
+
+.occupation, .address, .quote, .contact, .email{
+    font-size: 16px;
+
+}
+
+
+
